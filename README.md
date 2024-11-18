@@ -28,5 +28,5 @@ Bimestral
 
 ## Funcionamento do Chatbot
 O chatbot estará disponível em todas as plataformas de atendimento ao cliente da empresa Ligue Fácil 01.
-Se funcionamento depende da tag: `<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=bb90efd3-2172-4cf2-9b39-ac5c9e56b3cc"> </script>
+Seu funcionamento depende da tag: `<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=bb90efd3-2172-4cf2-9b39-ac5c9e56b3cc"> </script>
 `
